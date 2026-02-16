@@ -1,17 +1,16 @@
 Hi 👋 My name is David
 =======================
 
-I’m a fullstack web developer passionate about building dynamic and user-friendly applications.
+I’m a web developer passionate about building dynamic and user-friendly applications.
 -----------------------------------------------------------------------------------------------
 
-My technical toolkit includes Java, HTML, TailwindCSS, TypeScript, JavaScript, React, and PostgreSQL. I work extensively with Spring Boot for backend development and leverage modern frameworks, such as React and Astro, to create interactive and responsive web experiences.
+My technical toolkit includes Java, HTML, TailwindCSS, TypeScript, JavaScript, React, and PostgreSQL. I work with Spring Boot for backend development and leverage modern frameworks, such as Astro, to create interactive and responsive web experiences.
 
-After earning my degree in Computer Engineering, I took a three-year break from the tech world. Now, I’ve reignited my passion for software development and am committed to growing as a full-stack developer. Although I’m still early in my professional journey, I’m a fast learner and thrive on tackling new challenges every day.
+After earning my degree in Computer Engineering, I took a three-year break from the tech world. Now, I’ve reignited my passion for software development and am committed to growing as a developer. Although I’m still early in my professional journey, I’m a fast learner and thrive on tackling new challenges every day.
 
 I’m always eager to collaborate, learn, and contribute to exciting projects. Let’s connect!
 
 * 🌍  I'm based in Havana, Cuba
-* 🧠  I'm learning Spring Boot
 
 ### Skills
 
